@@ -44,9 +44,9 @@ Example:
                       -pb or -pd
 ```
 
-means the model input is `ini.txt` and output file is `out.txt`, and both these files are stored in `c:\pywaterbal\`` folder. The model is to be run for 90 simulation days, and after the model run, the simulation results will be plotted. The 'basic' chart plots will be produced if `-pb` is specified, else `-pd` for more detailed charts.
+means the model input is `ini.txt` and output file is `out.txt`, and both these files are stored in `c:\pywaterbal\` folder. The model is to be run for 90 simulation days, and after the model run, the simulation results will be plotted. The 'basic' chart plots will be produced if `-pb` is specified, else `-pd` for more detailed charts.
 
 ## Citation
 
-`1.	TEH, C.B.S. 2018. Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture. (In Press).`
-`1. TEH, C.B.S. 2017. Modeling soil water flow in Python and Excel. Universiti Putra Malaysia, Serdang.`
+1.	TEH, C.B.S. 2018. Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture. (In Press).
+1. TEH, C.B.S. 2017. Modeling soil water flow in Python and Excel. Universiti Putra Malaysia, Serdang.
