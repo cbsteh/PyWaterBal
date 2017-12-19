@@ -24,7 +24,7 @@ At the command prompt:
     python pywaterbal.py <flags>
 ```
 
-where `<flags>`` are the following:
+where `<flags>` are the following:
 
 ```text
     -i <model input text file>
