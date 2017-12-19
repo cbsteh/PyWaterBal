@@ -6,7 +6,7 @@ by [Christopher Teh Boon Sung](http://www.christopherteh.com)
 
 ## Overview
 
-PyWaterBal is a unsaturated soil water flow model for oil palm. It models the vertical flow (one-dimensional) of water in the soil, following a "tipping bucket" system. This model was published as a book by Uni. Putra Malaysia Press (see references below).
+PyWaterBal is a unsaturated soil water flow model for oil palm. It models the vertical flow (one-dimensional) of water in the soil, following a "tipping bucket" system. This model was published as a [`book by Uni. Putra Malaysia Press`](http://www.christopherteh.com/soilwaterbook/) (also see references below).
 
 
 
@@ -48,5 +48,5 @@ means the model input is `ini.txt` and output file is `out.txt`, and both these 
 
 ## Citation
 
-1.	TEH, C.B.S. 2018. Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture. (In Press).
-1. TEH, C.B.S. 2017. Modeling soil water flow in Python and Excel. Universiti Putra Malaysia, Serdang.
+1. TEH, C.B.S. 2018. Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture. (In Press).
+1. TEH, C.B.S. 2017. Modeling soil water flow in Python and Excel. Universiti Putra Malaysia, Serdang. [see book](http://www.christopherteh.com/soilwaterbook/)
