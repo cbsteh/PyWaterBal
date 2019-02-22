@@ -48,5 +48,5 @@ means the model input is `ini.txt` and output file is `out.txt`, and both these 
 
 ## Citation
 
-1. TEH, C.B.S. 2018. Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture. (In Press).
+1. Teh, C. B. S. (2018). Development and validation of an unsaturated soil water flow model for oil palm. Pertanika Journal of Tropical Agriculture, 41(2), 787-800.
 1. TEH, C.B.S. 2017. Modeling soil water flow in Python and Excel. Universiti Putra Malaysia, Serdang. [see book](http://www.christopherteh.com/soilwaterbook/)
